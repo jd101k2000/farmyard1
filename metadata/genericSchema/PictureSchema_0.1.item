@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_OZr4YI4wEeW2aIfZ4lW6Gg" comment="connectionComment" label="connectionLabel" dataPackage="_OZr4YY4wEeW2aIfZ4lW6Gg"/>
+  <TalendMetadata:GenericPackage xmi:id="_OZr4YY4wEeW2aIfZ4lW6Gg" dataManager="_OZr4YI4wEeW2aIfZ4lW6Gg">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_OZr4Yo4wEeW2aIfZ4lW6Gg" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_OZr4Y44wEeW2aIfZ4lW6Gg" name="ID" id="320" label="ID" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_OZtGgI4wEeW2aIfZ4lW6Gg"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_OZtGgY4wEeW2aIfZ4lW6Gg" name="Title" id="321" label="Title" length="105" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_OZtGgo4wEeW2aIfZ4lW6Gg"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_OZtGg44wEeW2aIfZ4lW6Gg" name="Content" id="322" label="Content" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_OZtGhI4wEeW2aIfZ4lW6Gg"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_OZtGhY4wEeW2aIfZ4lW6Gg" name="SKU" id="323" label="SKU" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_OZtGho4wEeW2aIfZ4lW6Gg"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_OZtGh44wEeW2aIfZ4lW6Gg" name="ProductType" id="324" label="ProductType" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_OZtGiI4wEeW2aIfZ4lW6Gg"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_OZtGiY4wEeW2aIfZ4lW6Gg" name="PostType" id="325" label="PostType" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_OZtGio4wEeW2aIfZ4lW6Gg"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_OZtGi44wEeW2aIfZ4lW6Gg" name="file" id="326" label="file" length="114" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_OZtGjI4wEeW2aIfZ4lW6Gg"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_OZtGjY4wEeW2aIfZ4lW6Gg" name="caption" id="327" label="caption" length="44" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_OZtGjo4wEeW2aIfZ4lW6Gg"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_OZtGj44wEeW2aIfZ4lW6Gg" name="description" id="328" label="description" length="56" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_OZtGkI4wEeW2aIfZ4lW6Gg"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_OZtGkY4wEeW2aIfZ4lW6Gg" name="alt" id="329" label="alt" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_OZtGko4wEeW2aIfZ4lW6Gg"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_OZtGk44wEeW2aIfZ4lW6Gg" name="RegularPrice" id="330" label="RegularPrice" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_OZtGlI4wEeW2aIfZ4lW6Gg"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_OZtGlY4wEeW2aIfZ4lW6Gg" name="StockStatus" id="331" label="StockStatus" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_OZtGlo4wEeW2aIfZ4lW6Gg"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_OZtGl44wEeW2aIfZ4lW6Gg" name="Stock" id="332" label="Stock" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_OZtGmI4wEeW2aIfZ4lW6Gg"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_OZtGmY4wEeW2aIfZ4lW6Gg" name="ShippingClass" id="333" label="ShippingClass" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_OZtGmo4wEeW2aIfZ4lW6Gg"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_OZtGm44wEeW2aIfZ4lW6Gg" name="ProductUrl" id="334" label="ProductUrl" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_OZtGnI4wEeW2aIfZ4lW6Gg"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_OZtGnY4wEeW2aIfZ4lW6Gg" name="ProductCategories" id="335" label="ProductCategories" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_OZtGno4wEeW2aIfZ4lW6Gg"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_OZtGn44wEeW2aIfZ4lW6Gg" name="PPMONTH" id="336" label="PPMONTH" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_OZtGoI4wEeW2aIfZ4lW6Gg"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_OZtGoY4wEeW2aIfZ4lW6Gg" name="PPTYPE" id="337" label="PPTYPE" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_OZtGoo4wEeW2aIfZ4lW6Gg"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_OZtGo44wEeW2aIfZ4lW6Gg" name="PPMETH" id="338" label="PPMETH" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_OZtGpI4wEeW2aIfZ4lW6Gg"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_OZtGpY4wEeW2aIfZ4lW6Gg" name="SPREQU" id="339" label="SPREQU" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_OZtGpo4wEeW2aIfZ4lW6Gg"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_OZtGp44wEeW2aIfZ4lW6Gg" name="Parent" id="340" label="Parent" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_OZtGqI4wEeW2aIfZ4lW6Gg"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_OZtGqY4wEeW2aIfZ4lW6Gg" name="Weight" id="341" label="Weight" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_OZtGqo4wEeW2aIfZ4lW6Gg"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_OZtGq44wEeW2aIfZ4lW6Gg" name="ManageStock" id="342" label="ManageStock" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_OZtGrI4wEeW2aIfZ4lW6Gg"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_OZtGrY4wEeW2aIfZ4lW6Gg" name="ProductImageGallery" id="343" label="ProductImageGallery" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_OZtGro4wEeW2aIfZ4lW6Gg"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_OZtGr44wEeW2aIfZ4lW6Gg" name="PotSize" id="344" label="PotSize" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_OZtGsI4wEeW2aIfZ4lW6Gg"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_OZtGsY4wEeW2aIfZ4lW6Gg" name="parent_sku" id="345" label="parent_sku" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_OZtGso4wEeW2aIfZ4lW6Gg"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_OZtGs44wEeW2aIfZ4lW6Gg" name="attribute_PotSize" id="346" label="attribute_PotSize" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_OZtGtI4wEeW2aIfZ4lW6Gg"/>
+      </feature>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>

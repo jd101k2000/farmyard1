@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" confirmationNeeded="false" name="Default">
+  <contextParameter comment="" name="Datafolder" prompt="Datafolder?" promptNeeded="false" type="id_Directory" value="/Users/john/Dropbox/CloudGenius/FarmyardNurseries/FarmyardImport/SpreadSheet/"/>
+  <contextParameter comment="" name="Spreadsheet" prompt="Spreadsheet?" promptNeeded="true" type="id_File" value="/Users/john/Dropbox/CloudGenius/FarmyardNurseries/CG Homework/plant database 01-09-15.xls"/>
+  <contextParameter comment="" name="Potsizes" prompt="Potsizes?" promptNeeded="false" type="id_File" value="/Users/john/Dropbox/CloudGenius/FarmyardNurseries/FarmyardImport/SpreadSheet/Pot Sizes.xls"/>
+  <contextParameter comment="" name="DropBoxFolder" prompt="DropBoxFolder?" promptNeeded="false" type="id_Directory" value="/Users/john/Dropbox/CloudGenius/FarmyardNurseries CG Homework/"/>
+  <contextParameter comment="" name="InputXML" prompt="InputXML?" promptNeeded="true" type="id_File" value=""/>
+</talendfile:ContextType>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:FileExcelConnection xmi:id="_m2ROoEsqEeW5g_YQHkt5IQ" name="FinalFormat" dataPackage="_m2R1sEsqEeW5g_YQHkt5IQ" Server="Localhost 127.0.0.1" FilePath="/Users/john/Dropbox/CloudGenius/Farmyard Nurseries/FarmyardImport/SpreadSheet/readyforwebsite.xls" Encoding="UTF-8" UseHeader="true" HeaderValue="1" FirstLineCaption="true" SheetName="for john better format plants -" firstColumn="1" thousandSeparator="','" decimalSeparator="'.'" sheetList="for john better format plants -:w&#xA;">
+    <sheetColumns>A</sheetColumns>
+    <sheetColumns>B</sheetColumns>
+    <sheetColumns>C</sheetColumns>
+    <sheetColumns>D</sheetColumns>
+    <sheetColumns>E</sheetColumns>
+    <sheetColumns>F</sheetColumns>
+    <sheetColumns>G</sheetColumns>
+    <sheetColumns>H</sheetColumns>
+    <sheetColumns>I</sheetColumns>
+    <sheetColumns>J</sheetColumns>
+    <sheetColumns>K</sheetColumns>
+    <sheetColumns>L</sheetColumns>
+    <sheetColumns>M</sheetColumns>
+    <sheetColumns>N</sheetColumns>
+    <sheetColumns>O</sheetColumns>
+    <sheetColumns>P</sheetColumns>
+    <sheetColumns>Q</sheetColumns>
+    <sheetColumns>R</sheetColumns>
+  </TalendMetadata:FileExcelConnection>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_m2R1sEsqEeW5g_YQHkt5IQ" name="default" dataManager="_m2ROoEsqEeW5g_YQHkt5IQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_m2R1sUsqEeW5g_YQHkt5IQ" id="_NNZ-EEsqEeW5g_YQHkt5IQ" label="OutputFile">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_m2R1sksqEeW5g_YQHkt5IQ" label="FirstName" length="23" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_m2R1s0sqEeW5g_YQHkt5IQ" label="SecondName" length="12" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_m2R1tEsqEeW5g_YQHkt5IQ" label="Thirdname" length="26" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_m2R1tUsqEeW5g_YQHkt5IQ" label="PotSize" length="5" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_m2R1tksqEeW5g_YQHkt5IQ" label="Category" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_m2R1t0sqEeW5g_YQHkt5IQ" label="Weight" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_m2R1uEsqEeW5g_YQHkt5IQ" label="SKU" length="7" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_m2R1uUsqEeW5g_YQHkt5IQ" label="Price" length="4" precision="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_m2R1uksqEeW5g_YQHkt5IQ" label="ShortDesc" length="176" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_m2R1u0sqEeW5g_YQHkt5IQ" label="LongDesc" length="288" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_m2R1vEsqEeW5g_YQHkt5IQ" label="FileName" length="37" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_m2R1vUsqEeW5g_YQHkt5IQ" label="FullFileName" length="41" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_m2R1vksqEeW5g_YQHkt5IQ" label="FullName" length="35" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_m2R1v0sqEeW5g_YQHkt5IQ" label="PotSizeFull" length="13" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

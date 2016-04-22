@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:FileExcelConnection xmi:id="_6wqjsEsuEeW5g_YQHkt5IQ" name="PotSizes" dataPackage="_6wqjsUsuEeW5g_YQHkt5IQ" Server="Localhost 127.0.0.1" FilePath="/Users/john/Dropbox/CloudGenius/Farmyard Nurseries/FarmyardImport/SpreadSheet/Pot Sizes.xls" Encoding="UTF-8" UseHeader="true" HeaderValue="1" FirstLineCaption="true" SheetName="PotSizes" firstColumn="1" thousandSeparator="','" decimalSeparator="'.'" selectAllSheets="true" sheetList="PotSizes:w&#xA;">
+    <sheetColumns>A</sheetColumns>
+    <sheetColumns>B</sheetColumns>
+  </TalendMetadata:FileExcelConnection>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_6wqjsUsuEeW5g_YQHkt5IQ" name="default" dataManager="_6wqjsEsuEeW5g_YQHkt5IQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_6wqjsksuEeW5g_YQHkt5IQ" id="_y8L6wEsuEeW5g_YQHkt5IQ" label="PotSize">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6wqjs0suEeW5g_YQHkt5IQ" label="PotAbbrev" length="20" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;" originalLength="20"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6wqjtEsuEeW5g_YQHkt5IQ" label="PotSize" length="30" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;" originalLength="30"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_unt-MGa0EeWxsdQU-a2mew" name="DeliveryType" label="DeliveryType" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_f1c_QMTkEeWL-_OC-Wib1A" name="PotSizeInternal" label="PotSizeInternal" talendType="id_String"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
